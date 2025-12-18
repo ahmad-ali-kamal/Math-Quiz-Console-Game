@@ -98,4 +98,5 @@ Computer Science Student | Backend & AI Enthusiast
 ## 📄 License
 
 This project is licensed for educational use.
+
 All rights reserved © 2025 Ahmed Ali Kamal.
